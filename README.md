@@ -1,3 +1,5 @@
+<sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
+
 # request someone [here](https://cosplaytown.atabook.org) !
 
 [tomatosu](https://github.com/tomatosu) ;; ponytown's **sasuke** *(naruto)*
@@ -25,3 +27,63 @@
 [silly-dotcom](https://github.com/silly-dotcom) ;; ponytown's **oppenheimer** and **yellow** *(deltarune)*
 
 [ethereal-fatality](https://github.com/ethereal-fatality) ;; ponytown's **ink sans** *(undertale)*
+
+[Chemicalshot](https://github.com/Chemicalshot) ;; ponytown's **bon** *(the walten files)*
+
+[CloveredFields](https://github.com/CloveredFields) ;; ponytown's **directorfies** *(MCYT)*
+
+[starfollower](https://github.com/starfollower) ;; ponytown's **purple** *(among us show)*
+
+[LeeSa-young](https://github.com/LeeSa-young) ;; ponytown's **lee sayoung** *{hunters gonna lay low)*
+
+[Aspenolia](https://github.com/Aspenolia) ;; ponytown's **azurewrath** *(forsaken)*
+
+[sketchyremorse](https://github.com/sketchyremorse) ;; ponytown's **stephanie brown** *(DC)*
+
+[tragicburn](https://github.com/tragicburn) ;; ponytown's **captain red** *(among us show)*
+
+[Heart0fGold](https://github.com/Heart0fGold) ;; ponytown's **karl** *(guts & blackpowder)*
+
+[Ham-milton](https://github.com/Ham-milton) ;; ponytown's **scared french soldier** *(guts & blackpowder)*
+
+[disorderlyfashion](https://github.com/disorderlyfashion) ;; ponytown's **raphael** *(TMNT 2012)*
+
+[zyvism](https://github.com/zyvism) ;; ponytown's **loveshot** *(die of death)*
+
+[12r0ds](https://github.com/12r0ds) ;; ponytown's **banhammer** *(phighting!)*
+
+[coypisopilled](https://github.com/coypisopilled) ;; ponytown's **coy piso** *(bunch of friends)*
+
+[monoxiides](https://github.com/monoxiides) ;; ponytown's **eggchan** *(MCYT)*
+
+[Chemicalshot](https://github.com/Chemicalshot) ;; ponytown's **wemmbu** *(MCYT)*
+
+[ch3shyre](https://github.com/ch3shyre) ;; ponytown's **travis** *(the moon i rot behind)*
+
+[ramudaa](https://github.com/ramudaa) ;; ponytown's **devin** *(the moon i rot behind)*
+
+[WAR-HeavenPierceHer](https://github.com/WAR-HeavenPierceHer) ;; ponytown's **rusty** *(the moon i rot behind)*
+
+[zandiik](https://github.com/zandiik) ;; ponytown's **dottore** *(genshin impact)*
+
+[mydearmelancholy](https://github.com/mydearmelancholy) ;; ponytown's **konata izumi** *(lucky star)* and **c!wilbur** *(DSMP)*
+
+[sspacedoutz](https://github.com/sspacedoutz) ;; ponytown's **saint** *(rainworld)*
+
+[demonbell3](https://github.com/demonbell3) ;; ponytown's **charlie morningstar** *(hazbin hotel)*
+
+[VOXMANIA](https://github.com/VOXMANIA) ;; ponytown's **vox** *(hazbin hotel)*
+
+[spokeisshere](https://github.com/spokeisshere) ;; ponytown's **spokeishere** *(MCYT)*
+
+[martycorn](https://github.com/martycorn) ;; ponytown's **vampire cookie** *(cookie run)*
+
+[cfluixon](https://github.com/cfluixon) ;; ponytown's **fluixon** *(ish's state)*
+
+[mydeiirl](https://github.com/mydeiirl) ;; ponytown's **mydei** *(honkai: star rail)*
+
+[pupfies](https://github.com/pupfies) ;; ponytown's **wifies** *(MCYT)*
+
+[nvthingmore](https://github.com/nvthingmore) ;; ponytown's **yeon sieun** *(weak hero)*
+
+[thatorangecatt](https://github.com/thatorangecatt) ;; ponytown's **grace ashcroft** *(resident evil: requiem)*
