@@ -104,6 +104,14 @@
 
 [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ) ;; ponytown's **ls!wemmbu** *(lifesteal smp)*
 
+[thrillher](https://github.com/thrillher) ;; ponytown's **michael jackson**
+
+[planetlordd](https://github.com/planetlordd) ;; ponytown's **planetlord** *(lifesteal smp)*
+
+[halmarch](https://github.com/halmarch) ;; ponytown's **holland march** *(the nice guys)*
+
+[jtadori](https://github.com/jtadori) ;; ponytown's **itadori yuji** *(jujutsu kaisen)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
