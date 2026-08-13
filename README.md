@@ -90,6 +90,14 @@
 
 [thatorangecatt](https://github.com/thatorangecatt) ;; ponytown's **grace ashcroft** *(resident evil: requiem)*
 
+[B3RDLY](https://github.com/B3RDLY) ;; ponytown's **berdly** *(deltarune)*
+
+[DEADP0ET](https://github.com/DEADP0ET) ;; ponytown's **007n7** *(forsaken)*
+
+[Mayumixx](https://github.com/Mayumixx) ;; ponytown's **tifa lockhart** *(final fantasy)*
+
+[Yxmi-c](https://github.com/Yxmi-c) ;; ponytown's **zombie mizi** *(alien stage)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
