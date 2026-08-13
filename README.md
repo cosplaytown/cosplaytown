@@ -134,6 +134,12 @@
 
 [star-employee](https://github.com/star-employee) ;; ponytown's **croissant cookie** *(cookie run ovenbreak)*
 
+[robertreynoldsirl](https://github.com/robertreynoldsirl) ;; ponytown's **robert reynolds** *(marvel)*
+
+[freakedoutboy](https://github.com/freakedoutboy) ;; ponytown's **michelangelo** *(TMNT 2012)*
+
+[kniferrific](https://github.com/kniferrific) ;; ponytown's **craig tucker** *(south park)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
