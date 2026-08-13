@@ -98,6 +98,12 @@
 
 [Yxmi-c](https://github.com/Yxmi-c) ;; ponytown's **zombie mizi** *(alien stage)*
 
+[flairforthedramatic](https://github.com/flairforthedramatic) ;; ponytown's **gold** *(pokespe)*
+
+[hanbonz](https://github.com/hanbonz) ;; ponytown's **hanbon** *(bunch of friends)*
+
+[IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ) ;; ponytown's **ls!wemmbu** *(lifesteal smp)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
