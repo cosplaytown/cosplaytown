@@ -112,6 +112,28 @@
 
 [jtadori](https://github.com/jtadori) ;; ponytown's **itadori yuji** *(jujutsu kaisen)*
 
+[TheHacker7n7](https://github.com/TheHacker7n7) ;; ponytown's **grox** *(MCYT)*
+
+[itrappedfan](https://github.com/itrappedfan) ;; ponytown's **froggydude** *(MCYT)*
+
+[Livscent](https://github.com/Livscent) ;; ponytown's **leafy** *(BFDI)*
+
+[Michixwl](https://github.com/Michixwl) ;; ponytown's **michikatsu** *(demon slayer)*
+
+[dttore](https://github.com/dttore) ;; ponytown's **pantalone** *(genshin impact)*
+
+[secretarylove](https://github.com/secretarylove) ;; ponytown's **nurse** *(animal hospital)*
+
+[WoundedRibbons](https://github.com/WoundedRibbons) ;; ponytown's **kaveh** *(genshin impact)*
+
+[rockstarphainon](https://github.com/rockstarphainon) ;; ponytown's **phainon** *(honkai: star rail)*
+
+[suguruberry](https://github.com/suguruberry) ;; ponytown's **peter parker** *(spiderman)*
+
+[PESKYMAILMAN](https://github.com/PESKYMAILMAN) ;; ponytown's **spamton** *(deltarune)*
+
+[star-employee](https://github.com/star-employee) ;; ponytown's **croissant cookie** *(cookie run ovenbreak)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
