@@ -20,7 +20,7 @@
 
 [tainted-soul](https://github.com/tainted-soul) ;; ponytown's **simon henriksson** *(cry of fear)*
 
-[lronmary](https://github.com/lronmary) ;; ponytown's **henry letham** *(stay)*
+[lronmary](https://github.com/lronmary) ;; ponytown's **henry letham** *(stay)* and **wahony** *(bunch of friends)*
 
 [01-800-PAPU](https://github.com/01-800-PAPU) ;; ponytown's **aldo_geo** *(MCYT)*
 
@@ -139,6 +139,12 @@
 [freakedoutboy](https://github.com/freakedoutboy) ;; ponytown's **michelangelo** *(TMNT 2012)*
 
 [kniferrific](https://github.com/kniferrific) ;; ponytown's **craig tucker** *(south park)*
+
+[lostcxuse](https://github.com/lostcxuse) ;; ponytown's **nezoshoki** *(MCYT)*
+
+[ACE0FHEART5](https://github.com/ACE0FHEART5) ;; ponytown's **chance** *(forsaken)*
+
+[VIL-ILY](https://github.com/VIL-ILY) ;; ponytown's **rook hunt** *(twisted wonderland)*
 
 ***
 
