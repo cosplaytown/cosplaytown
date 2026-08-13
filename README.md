@@ -1,5 +1,7 @@
 <sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
 
+***
+
 # request someone [here](https://cosplaytown.atabook.org) !
 
 [tomatosu](https://github.com/tomatosu) ;; ponytown's **sasuke** *(naruto)*
@@ -87,3 +89,7 @@
 [nvthingmore](https://github.com/nvthingmore) ;; ponytown's **yeon sieun** *(weak hero)*
 
 [thatorangecatt](https://github.com/thatorangecatt) ;; ponytown's **grace ashcroft** *(resident evil: requiem)*
+
+***
+
+<sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
