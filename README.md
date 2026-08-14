@@ -178,6 +178,10 @@
 
 [AdmonishingInstruction](https://github.com/AdmonishingInstruction) ;; ponytown's **alhaitham** *(genshin impact)*
 
+[parameowia](https://github.com/parameowia) ;; ponytown's **artificer** *(rain world)*
+
+[Z4WARUD0](https://github.com/Z4WARUD0) ;; ponytown's **dio brando** *(jojo no kimyou na bouken part 1and 3)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
