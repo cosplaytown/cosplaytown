@@ -170,7 +170,7 @@
 
 [Livscent](https://github.com/Livscent) ;; ponytown's **firey** *(BFDI)*
 
-[tomatoLover112](https://github.com/tomatoLover112) ;; ponytown's **scarlet** *(fe2)*
+[tomatoLover112](https://github.com/tomatoLover112) ;; ponytown's **scarlet** *(FE2)*
 
 [A-ReGect](https://github.com/A-ReGect) ;; ponytown's **guide** *(FE2)*
 
