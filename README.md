@@ -170,6 +170,8 @@
 
 [Livscent](https://github.com/Livscent) ;; ponytown's **firey** *(BFDI)*
 
+[tomatoLover112](https://github.com/tomatoLover112) ;; ponytown's **scarlet** *(fe2)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
