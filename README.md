@@ -68,7 +68,7 @@
 
 [zandiik](https://github.com/zandiik) ;; ponytown's **dottore** *(genshin impact)*
 
-[mydearmelancholy](https://github.com/mydearmelancholy) ;; ponytown's **konata izumi** *(lucky star)* and **c!wilbur** *(DSMP)*
+[mydearmeIancholy](https://github.com/mydearmeIancholy) ;; ponytown's **konata izumi** *(lucky star)* and **c!wilbur** *(DSMP)*
 
 [sspacedoutz](https://github.com/sspacedoutz) ;; ponytown's **saint** *(rainworld)*
 
