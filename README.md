@@ -76,7 +76,7 @@
 
 [VOXMANIA](https://github.com/VOXMANIA) ;; ponytown's **vox** *(hazbin hotel)*
 
-[spokeisshere](https://github.com/spokeisshere) ;; ponytown's **spokeishere** *(MCYT)*
+[orbitallduo](https://github.com/orbitallduo) ;; ponytown's **spokeishere** *(MCYT)*
 
 [martycorn](https://github.com/martycorn) ;; ponytown's **vampire cookie** *(cookie run)*
 
@@ -145,6 +145,30 @@
 [ACE0FHEART5](https://github.com/ACE0FHEART5) ;; ponytown's **chance** *(forsaken)*
 
 [VIL-ILY](https://github.com/VIL-ILY) ;; ponytown's **rook hunt** *(twisted wonderland)*
+
+[pIanetwithnomoon](https://github.com/pIanetwithnomoon) ;; ponytown's **ulrich** *(reverse: 1999)*
+
+[TROY-BOLTON](https://github.com/TROY-BOLTON) ;; ponytown's **troy bolton** *(highschool musical)*
+
+[ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) ;; ponytown's **three** *(XFHOV/TPOT)*
+
+[Purzuer](https://github.com/Purzuer) ;; ponytown's **pursuer** *(die of death)*
+
+[lovelyritas](https://github.com/lovelyritas) ;; ponytown's **paul mccartney** *(the beatles)*
+
+[T0R4X](https://github.com/T0R4X) ;; ponytown's **medic** *(team fortress 2)*
+
+[cellbito](https://github.com/cellbito) ;; ponytown's **q!cellbit** *(QSMP)*
+
+[kyutbie](https://github.com/kyutbie) ;; ponytown's **riddle rosehearts** *(twisted wonderland)*
+
+[BloodDove](https://github.com/BloodDove) ;; ponytown's **st peter** *(hazbin hotel)*
+
+[burningsins](https://github.com/burningsins) ;; ponytown's **keigo takami** *(my hero academia)*
+
+[cowpokke](https://github.com/cowpokke) ;; ponytown's **gary smith** *(bully)*
+
+[Livscent](https://github.com/Livscent) ;; ponytown's **firey** *(BFDI)*
 
 ***
 
