@@ -172,6 +172,12 @@
 
 [tomatoLover112](https://github.com/tomatoLover112) ;; ponytown's **scarlet** *(fe2)*
 
+[A-ReGect](https://github.com/A-ReGect) ;; ponytown's **guide** *(FE2)*
+
+[LuckOfTheGambler](https://github.com/LuckOfTheGambler) ;; ponytown's **aventurine** *(honkai: star rail)*
+
+[AdmonishingInstruction](https://github.com/AdmonishingInstruction) ;; ponytown's **alhaitham** *(genshin impact)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
