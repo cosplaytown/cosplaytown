@@ -190,6 +190,10 @@
 
 [zankaranpo](https://github.com/zankaranpo) ;; ponytown's **edogawa ranpo** *(bungo stray dogs)*
 
+[mizicest1](https://github.com/mizicest1) ;; ponytown's **mizi** *(alien stage)* and **lucifer** *(hazbin hotel)*
+
+[merrldew](https://github.com/merrldew) ;; ponytown's **ejack merridew** *(lord of the flies)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
