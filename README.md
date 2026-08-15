@@ -192,7 +192,7 @@
 
 [mizicest1](https://github.com/mizicest1) ;; ponytown's **mizi** *(alien stage)* and **lucifer** *(hazbin hotel)*
 
-[merrldew](https://github.com/merrldew) ;; ponytown's **ejack merridew** *(lord of the flies)*
+[merrldew](https://github.com/merrldew) ;; ponytown's **jack merridew** *(lord of the flies)*
 
 ***
 
