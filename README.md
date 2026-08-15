@@ -190,7 +190,7 @@
 
 [zankaranpo](https://github.com/zankaranpo) ;; ponytown's **edogawa ranpo** *(bungo stray dogs)*
 
-[mizicest1](https://github.com/mizicest1) ;; ponytown's **mizi** *(alien stage)* and **lucifer** *(hazbin hotel)*
+[mizicest](https://github.com/mizicest) ;; ponytown's **mizi** *(alien stage)* and **lucifer** *(hazbin hotel)*
 
 [merrldew](https://github.com/merrldew) ;; ponytown's **jack merridew** *(lord of the flies)*
 
