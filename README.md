@@ -182,6 +182,14 @@
 
 [Z4WARUD0](https://github.com/Z4WARUD0) ;; ponytown's **dio brando** *(jojo no kimyou na bouken part 1and 3)*
 
+[chocolanii](https://github.com/chocolanii) ;; ponytown's **chocola** *(nekopara)*
+
+[littleapplemuffins](https://github.com/littleapplemuffins) ;; ponytown's **aqua** *(deltarune)*
+
+[DlSASTEROLOGY](https://github.com/DlSASTEROLOGY) ;; ponytown's **kunigami rensuke** *(blue lock)*
+
+[zankaranpo](https://github.com/zankaranpo) ;; ponytown's **edogawa ranpo** *(bungo stray dogs)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
