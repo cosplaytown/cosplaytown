@@ -194,6 +194,14 @@
 
 [merrldew](https://github.com/merrldew) ;; ponytown's **jack merridew** *(lord of the flies)*
 
+[narcissisticpersonalitydisorder](https://github.com/narcissisticpersonalitydisorder) ;; ponytown's **john ward** *(faith: the unholy trinity)*
+
+[planetlords](https://github.com/planetlords) ;; ponytown's **mapicc** *(MCYT)*
+
+[Solyrvv](https://github.com/Solyrvv) ;; ponytown's **hyuna** *(alien stage)*
+
+[Confettigummyworm](https://github.com/Confettigummyworm) ;; ponytown's **könig** *(call of duty modern warfare 2)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
