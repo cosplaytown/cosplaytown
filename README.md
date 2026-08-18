@@ -44,7 +44,7 @@
 
 [tragicburn](https://github.com/tragicburn) ;; ponytown's **captain red** *(among us show)*
 
-[Heart0fGold](https://github.com/Heart0fGold) ;; ponytown's **karl** *(guts & blackpowder)*
+[Heart0fGold](https://github.com/Heart0fGold) ;; ponytown's **karl** *(guts & blackpowder)* and **michel ney** *(napoleonic wars)*
 
 [Ham-milton](https://github.com/Ham-milton) ;; ponytown's **scared french soldier** *(guts & blackpowder)*
 
@@ -60,9 +60,9 @@
 
 [Chemicalshot](https://github.com/Chemicalshot) ;; ponytown's **wemmbu** *(MCYT)*
 
-[ch3shyre](https://github.com/ch3shyre) ;; ponytown's **travis** *(the moon i rot behind)*
+[ch3shyre](https://github.com/ch3shyre) ;; ponytown's **devin** *(the moon i rot behind)*
 
-[ramudaa](https://github.com/ramudaa) ;; ponytown's **devin** *(the moon i rot behind)*
+[rapidrot](https://github.com/rapidrot) ;; ponytown's **travis** *(the moon i rot behind)*
 
 [WAR-HeavenPierceHer](https://github.com/WAR-HeavenPierceHer) ;; ponytown's **rusty** *(the moon i rot behind)*
 
@@ -201,6 +201,20 @@
 [Solyrvv](https://github.com/Solyrvv) ;; ponytown's **hyuna** *(alien stage)*
 
 [Confettigummyworm](https://github.com/Confettigummyworm) ;; ponytown's **könig** *(call of duty modern warfare 2)*
+
+[Yoshida-zawa](https://github.com/Yoshida-zawa) ;; ponytown's **izuku midoriya** *(my hero academia)*
+
+[RE0-MIKAGE](https://github.com/RE0-MIKAGE) ;; ponytown's **reo mikage** *(blue lock)*
+
+[aeszz](https://github.com/aeszz) ;; ponytown's **clark kent** *(DC)*
+
+[Xingqiukisser](https://github.com/Xingqiukisser) ;; ponytown's **xingqiu** *(genshin impact)*
+
+[butchermask](https://github.com/butchermask) ;; ponytown's **c!dream** *(MCYT)*
+
+[SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) ;; ponytown's **mafioso** *(forsaken)*
+
+[opioiid](https://github.com/opioiid) ;; ponytown's **hot pants** *(jojo's bizarre adventure steel ball run)*
 
 ***
 
