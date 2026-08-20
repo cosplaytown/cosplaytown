@@ -60,7 +60,7 @@
 
 [Chemicalshot](https://github.com/Chemicalshot) ;; ponytown's **wemmbu** *(MCYT)*
 
-[ch3shyre](https://github.com/ch3shyre) ;; ponytown's **devin** *(the moon i rot behind)*
+[BadlyAddicted](https://github.com/BadlyAddicted) ;; ponytown's **devin** *(the moon i rot behind)*
 
 [rapidrot](https://github.com/rapidrot) ;; ponytown's **travis** *(the moon i rot behind)*
 
@@ -215,6 +215,40 @@
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) ;; ponytown's **mafioso** *(forsaken)*
 
 [opioiid](https://github.com/opioiid) ;; ponytown's **hot pants** *(jojo's bizarre adventure steel ball run)*
+
+[samuraswife](https://github.com/samuraswife) ;; ponytown's **gaku maruko** *(the hundred line: last defense academy)*
+
+[donniesgaptooth](https://github.com/donniesgaptooth) ;; ponytown's **maul** *(star wars)*
+
+[yaasuhiro](https://github.com/yaasuhiro) ;; ponytown's **yasuhiro hagakure** *(danganronpa)*
+
+[spesilver](https://github.com/spesilver) ;; ponytown's **silver** *(pokespe)*
+
+[Kiteplushie](https://github.com/Kiteplushie) ;; ponytown's **kite** *(hunter x hunter)*
+
+[Gamblersi](https://github.com/Gamblersi) ;; ponytown's **chance** *(forsaken)*
+
+[felixylixywoah](https://github.com/felixylixywoah) ;; ponytown's **felix** *(piggy)*
+
+[MiguelOharaL0ver](https://github.com/MiguelOharaL0ver) ;; ponytown's **lyla** *(spiderverse)*
+
+[ArtisticalNova](https://github.com/ArtisticalNova) ;; ponytown's **ali** *(brawl stars)*
+
+[bxk2vg3](https://github.com/bxk2vg3) ;; ponytown's **chevreuse** *(genshin impact)*
+
+[needyourbIood](https://github.com/needyourbIood) ;; ponytown's **colt seavers** *(the fall guy)*
+
+[wetcigarettesNremorse](https://github.com/wetcigarettesNremorse) ;; ponytown's **wuyang** *(overwatch)*
+
+[Ten-Mou](https://github.com/Ten-Mou) ;; ponytown's **awesomedroid** *(die of death)*
+
+[fouIIegacy](https://github.com/fouIIegacy) ;; ponytown's **tartaglia** *(genshin impact)*
+
+[ONEMXRECHANCE](https://github.com/ONEMXRECHANCE) ;; ponytown's **habit** *(everymanhybrid)*
+
+[subspace-kisser](https://github.com/subspace-kisser) ;; ponytown's **darkheart** *(phighting!)*
+
+[IIhyperlaserII](https://github.com/IIhyperlaserII) ;; ponytown's **hyperlaser** *(phighting!)*
 
 ***
 
