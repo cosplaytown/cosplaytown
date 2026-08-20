@@ -226,8 +226,6 @@
 
 [Kiteplushie](https://github.com/Kiteplushie) ;; ponytown's **kite** *(hunter x hunter)*
 
-[Gamblersi](https://github.com/Gamblersi) ;; ponytown's **chance** *(forsaken)*
-
 [felixylixywoah](https://github.com/felixylixywoah) ;; ponytown's **felix** *(piggy)*
 
 [MiguelOharaL0ver](https://github.com/MiguelOharaL0ver) ;; ponytown's **lyla** *(spiderverse)*
