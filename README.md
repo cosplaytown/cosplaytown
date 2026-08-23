@@ -230,7 +230,7 @@
 
 [MiguelOharaL0ver](https://github.com/MiguelOharaL0ver) ;; ponytown's **lyla** *(spiderverse)*
 
-[ArtisticalNova](https://github.com/ArtisticalNova) ;; ponytown's **ali** *(brawl stars)*
+[ArtisticalNova](https://github.com/ArtisticalNova) ;; ponytown's **alli** *(brawl stars)*
 
 [bxk2vg3](https://github.com/bxk2vg3) ;; ponytown's **chevreuse** *(genshin impact)*
 
@@ -247,6 +247,30 @@
 [subspace-kisser](https://github.com/subspace-kisser) ;; ponytown's **darkheart** *(phighting!)*
 
 [IIhyperlaserII](https://github.com/IIhyperlaserII) ;; ponytown's **hyperlaser** *(phighting!)*
+
+[mydad-is-myhero](https://github.com/mydad-is-myhero) ;; ponytown's **garo** *(one punch man)*
+
+[zombdisaster](https://github.com/zombdisaster) ;; ponytown's **tom wright** *(marble hornets)*
+
+[oraclegordon](https://github.com/oraclegordon) ;; ponytown's **barbara gordon** *(DC)*
+
+[Blsuf](https://github.com/Blsuf) ;; ponytown's **facty** *(fact attack adventures)*
+
+[SQUEVIL](https://github.com/SQUEVIL) ;; ponytown's **therealsquiddo** *(MCYT)*
+
+[mirrorgem](https://github.com/mirrorgem) ;; ponytown's **lottie matthews** *(yellowjackets)*
+
+[B-E-E-D-Z](https://github.com/B-E-E-D-Z) ;; ponytown's **steve harrington** *(stranger things)*
+
+[RAZZERBLADE](https://github.com/RAZZERBLADE) ;; ponytown's **blixer** *(JSAB)*
+
+[Nadd-nadd](https://github.com/Nadd-nadd) ;; ponytown's **sigil** *(nullscape)*
+
+[GrimEmbrace](https://github.com/GrimEmbrace) ;; ponytown's **celestial** *(nullscape)*
+
+[kawaiipuppymalcolm](https://github.com/kawaiipuppymalcolm) ;; ponytown's **kazuichi soda** *(danganronpa)*
+
+[strin-g](https://github.com/strin-g) ;; ponytown's **string gummy cookie** *(cookie run ovenbreak)*
 
 ***
 
