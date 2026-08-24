@@ -1,4 +1,4 @@
-<sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
+a<sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
 
 ***
 
@@ -250,7 +250,7 @@
 
 [mydad-is-myhero](https://github.com/mydad-is-myhero) ;; ponytown's **garo** *(one punch man)*
 
-[zombdisaster](https://github.com/zombdisaster) ;; ponytown's **tom wright** *(marble hornets)*
+[zombdisaster](https://github.com/zombdisaster) ;; ponytown's **tim wright** *(marble hornets)*
 
 [oraclegordon](https://github.com/oraclegordon) ;; ponytown's **barbara gordon** *(DC)*
 
@@ -271,6 +271,14 @@
 [kawaiipuppymalcolm](https://github.com/kawaiipuppymalcolm) ;; ponytown's **kazuichi soda** *(danganronpa)*
 
 [strin-g](https://github.com/strin-g) ;; ponytown's **string gummy cookie** *(cookie run ovenbreak)*
+
+[itrap-2245](https://github.com/itrap-2245) ;; ponytown's **itrapped** *(forsaken)*
+
+[faded-radiance](https://github.com/faded-radiance) ;; ponytown's **eternal sugar cookie** *(cookie run kingdom)*
+
+[Lycan-1314](https://github.com/Lycan-1314) ;; ponytown's **sword** *(phighting!)*
+
+[foilsiick](https://github.com/foilsiick) ;; ponytown's **V** *(devil may cry 5)*
 
 ***
 
