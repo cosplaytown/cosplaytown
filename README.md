@@ -1,4 +1,4 @@
-a<sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
+<sub> reports are to be sent to the atabook. you must have proof & ideally some form of social media for me to contact you at for further details. </sub>
 
 ***
 
