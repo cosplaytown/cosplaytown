@@ -56,7 +56,7 @@
 
 [coypisopilled](https://github.com/coypisopilled) ;; ponytown's **coy piso** *(bunch of friends)*
 
-[monoxiides](https://github.com/monoxiides) ;; ponytown's **eggchan** *(MCYT)*
+[Iquidsmooth](https://github.com/Iquidsmooth) ;; ponytown's **eggchan** *(MCYT)*
 
 [Chemicalshot](https://github.com/Chemicalshot) ;; ponytown's **wemmbu** *(MCYT)*
 
@@ -279,6 +279,22 @@
 [Lycan-1314](https://github.com/Lycan-1314) ;; ponytown's **sword** *(phighting!)*
 
 [foilsiick](https://github.com/foilsiick) ;; ponytown's **V** *(devil may cry 5)*
+
+[oashushkitten](https://github.com/oashushkitten) ;; ponytown's **jon kent** *(DC)*
+
+[monachgrievings](https://github.com/monachgrievings) ;; ponytown's **lord x** *(sonic.exe oddities)*
+
+[kiwiconiccc](https://github.com/kiwiconiccc) ;; ponytown's **saiki kusuo** *(saiki k)* and **dot barrett** *(mashle)*
+
+[howitzerimpact](https://github.com/howitzerimpact) ;; ponytown's **katsuki bakugo** *(MHA)*
+
+[fxbayne](https://github.com/fxbayne) ;; ponytown's **benjamin poindexter** *(daredevil)*
+
+[Gamblersi](https://github.com/Gamblersi) ;; ponytown's **dog chance** *(forsaken)*
+
+[WhispedVanilla](https://github.com/WhispedVanilla) ;; ponytown's **slingshot** *(phighting!)*
+
+[nataliescatorccio](https://github.com/nataliescatorccio) ;; ponytown's **natalie scatorccio** *(yellowjackets)*
 
 ***
 
