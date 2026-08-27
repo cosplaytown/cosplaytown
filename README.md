@@ -296,6 +296,10 @@
 
 [nataliescatorccio](https://github.com/nataliescatorccio) ;; ponytown's **natalie scatorccio** *(yellowjackets)*
 
+[LastSeenDead](https://github.com/LastSeenDead) ;; ponytown's **itsuka kendo** *(MHA)*
+
+[fragranceofhope](https://github.com/fragranceofhope) ;; ponytown's **flowery** *(deltarune)*
+
 ***
 
 <sub> find yourself easily by using ctrl/cmd + f and typing in your username or the character's name </sub>
