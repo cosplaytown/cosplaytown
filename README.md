@@ -162,13 +162,13 @@
 
 [kyutbie](https://github.com/kyutbie) ;; ponytown's **riddle rosehearts** *(twisted wonderland)*
 
-[BloodDove](https://github.com/BloodDove) ;; ponytown's **st peter** *(hazbin hotel)*
+[prizeflush](https://github.com/prizeflush) ;; ponytown's **st peter** *(hazbin hotel)*
 
 [burningsins](https://github.com/burningsins) ;; ponytown's **keigo takami** *(my hero academia)*
 
 [cowpokke](https://github.com/cowpokke) ;; ponytown's **gary smith** *(bully)*
 
-[Livscent](https://github.com/Livscent) ;; ponytown's **firey** *(BFDI)*
+[Livscent](https://github.com/Livscent) ;; ponytown's **leafy** *(BFDI)*
 
 [tomatoLover112](https://github.com/tomatoLover112) ;; ponytown's **scarlet** *(FE2)*
 
@@ -184,7 +184,7 @@
 
 [chocolanii](https://github.com/chocolanii) ;; ponytown's **chocola** *(nekopara)*
 
-[littleapplemuffins](https://github.com/littleapplemuffins) ;; ponytown's **aqua** *(deltarune)*
+[littleapplemuffins](https://github.com/littleapplemuffins) ;; ponytown's **finn** *(dandy's world)*
 
 [DlSASTEROLOGY](https://github.com/DlSASTEROLOGY) ;; ponytown's **kunigami rensuke** *(blue lock)*
 
@@ -228,7 +228,7 @@
 
 [felixylixywoah](https://github.com/felixylixywoah) ;; ponytown's **felix** *(piggy)*
 
-[MiguelOharaL0ver](https://github.com/MiguelOharaL0ver) ;; ponytown's **lyla** *(spiderverse)*
+[cherryflavoredfoam](https://github.com/cherryflavoredfoam) ;; ponytown's **lyla** *(spiderverse)*
 
 [ArtisticalNova](https://github.com/ArtisticalNova) ;; ponytown's **alli** *(brawl stars)*
 
@@ -242,7 +242,7 @@
 
 [fouIIegacy](https://github.com/fouIIegacy) ;; ponytown's **tartaglia** *(genshin impact)*
 
-[ONEMXRECHANCE](https://github.com/ONEMXRECHANCE) ;; ponytown's **habit** *(everymanhybrid)*
+[casino-flush](https://github.com/casino-flush) ;; ponytown's **habit** *(everymanhybrid)*
 
 [subspace-kisser](https://github.com/subspace-kisser) ;; ponytown's **darkheart** *(phighting!)*
 
@@ -284,7 +284,7 @@
 
 [monachgrievings](https://github.com/monachgrievings) ;; ponytown's **lord x** *(sonic.exe oddities)*
 
-[kiwiconiccc](https://github.com/kiwiconiccc) ;; ponytown's **saiki kusuo** *(saiki k)* and **dot barrett** *(mashle)*
+[kiwiconiccc](https://github.com/kiwiconiccc) ;; ponytown's **saiki kusuo** *(saiki k)* and **sakura haruka** *(windbreaker)*
 
 [howitzerimpact](https://github.com/howitzerimpact) ;; ponytown's **katsuki bakugo** *(MHA)*
 
@@ -299,6 +299,46 @@
 [LastSeenDead](https://github.com/LastSeenDead) ;; ponytown's **itsuka kendo** *(MHA)*
 
 [fragranceofhope](https://github.com/fragranceofhope) ;; ponytown's **flowery** *(deltarune)*
+
+[seraphilia](https://github.com/seraphilia) ;; ponytown's **blood dept** *(roblox)*
+
+[infugue](https://github.com/infugue) ;; ponytown's **silver** *(pokémon)*
+
+[D0tt1e](https://github.com/D0tt1e) ;; ponytown's **suma** *(demon slayer)*
+
+[hamfoolish](https://github.com/hamfoolish) ;; ponytown's **green lantern** *(DC)*
+
+[llimewire](https://github.com/llimewire) ;; ponytown's **pac-man** *(pac-man)* and **limewire** *(pursuitcore)*
+
+[NECRO-GUITAR](https://github.com/NECRO-GUITAR) ;; ponytown's **sal fisher** *(sally face)*
+
+[777xngel](https://github.com/777xngel) ;; ponytown's **ritsu kageyama** *(mob psycho 100)* and **indou hikaru** *(the summer hikaru died)*
+
+[SweetTenshi](https://github.com/SweetTenshi) ;; ponytown's **yoisaki kanade** *(PJSK)*
+
+[MsCarolynne](https://github.com/MsCarolynne) ;; ponytown's **bobette carolynne** *(dandy's world)*
+
+[PERDlTION](https://github.com/PERDlTION) ;; ponytown's **glitchy red** *(poképasta)*
+
+[kyostro](https://github.com/kyostro) ;; ponytown's **sucy manbavaran** *(little witch academia)*
+
+[chillingdevotion](https://github.com/chillingdevotion) ;; ponytown's **bryan hodukavich** *(resident evil 2026)*
+
+[kittyypop](https://github.com/kittyypop) ;; ponytown's **sally acorn** *(sonic the hedgehog)*
+
+[LAWRlE](https://github.com/LAWRlE) ;; ponytown's **lawrie** *(brawl stars)*
+
+[dr-vanta](https://github.com/dr-vanta) ;; ponytown's **dr vanta** *(loomian legacy)*
+
+[rybaddon](https://github.com/rybaddon) ;; ponytown's **soulvester** *(dandy's world)*
+
+[ThatBrash](https://github.com/ThatBrash) ;; ponytown's **thatmob** *(verity cast)*
+
+[willythesillybilly](https://github.com/willythesillybilly) ;; ponytown's **clockwork** *(roblox)*
+
+[supernova-remnants](https://github.com/supernova-remnants) ;; ponytown's **thornstaff** *(phighting!)*
+
+[kraazykat](https://github.com/kraazykat) ;; ponytown's **clark** *(backrooms)*
 
 ***
 
